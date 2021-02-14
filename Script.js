@@ -6,9 +6,9 @@ window.onload = function() {
     var tens = 00;
     var appendTens = document.getElementById("Tens")
     var appendSeconds = document.getElementById("Seconds")
-    var startbutton = document.getElementById("StartButton");
-    var stopbutton = document.getElementById("StopButton"); 
-    var resetbutton = document.getElementById("ResetButton");
+    var startbutton = document.getElementById("startButton");
+    var stopbutton = document.getElementById("stopButton"); 
+    var resetbutton = document.getElementById("resetButton");
     var interval;
 
     //Set Events for buttons
